@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Scanner"
+        android:id="@+id/scanner"
+        android:icon="@drawable/ic_scanner"
+        app:showAsAction="ifRoom" />
+
+    <item android:title="Speech"
+        android:id="@+id/speech"
+        android:icon="@drawable/ic_speech"
+        app:showAsAction="ifRoom" />
+
+</menu>

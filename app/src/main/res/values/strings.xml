@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteSansar</string>
+    <string name="note_title">Note Title…</string>
+    <string name="priority">Priority</string>
+    <string name="note_hint">Write Your Note…</string>
+    <string name="save_btn">SAVE</string>
+    <string name="no_filter">No Filter</string>
+    <string name="high_to_low"><font fgcolor="red">High</font> <font fgcolor="#F7BD01">to</font> <font fgcolor="#11D998">Low</font></string>
+    <string name="low_to_high"><font fgcolor="#11D998">Low</font> <font fgcolor="#F7BD01">to</font> <font fgcolor="red">High</font></string>
+    <string name="todo">TODO</string>
+    <string name="existingNote">Add to Existing Note</string>
+    <string name="newNote">Create New Note</string>
+</resources>
